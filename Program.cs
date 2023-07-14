@@ -23,7 +23,7 @@ namespace CarDealership
                 Console.WriteLine("1) Покажи всички налични коли в склада");
                 Console.WriteLine("2) Покажи всички продадени коли");
                 Console.WriteLine("3) Продай кола от склада");
-                Console.WriteLine("4) Добави нова кола в склада");
+                Console.WriteLine("4) Добави нова кола в склада"); //TODO
                 Console.ForegroundColor = ConsoleColor.White;
 
                 int choice = int.Parse(Console.ReadLine());
@@ -43,7 +43,7 @@ namespace CarDealership
 
         static void AddNewCar()
         {
-
+            //TODO
         }
 
         static void SellCar()
