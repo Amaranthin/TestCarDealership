@@ -1,0 +1,8 @@
+﻿ID,Brand,Model,YearOfManufacture,Price,Color,IsNew,Mileage,Availability,NewОwner
+1,Audi,A4,2020,40000,Black,True,5000,True,None
+2,BMW,X5,2019,45000,White,False,15000,False,Борис Бекер
+3,Mercedes,E-Class,2021,50000,Silver,True,1000,False,Мартин Катев
+4,Volkswagen,Golf,2018,20000,Blue,False,25000,True,None
+5,Toyota,Camry,2022,35000,Red,True,2000,False,Elon Musk
+6,Honda,Civic,2020,25000,Gray,True,8000,True,None
+7,Ford,Mustang,2017,30000,Yellow,False,30000,True,None
